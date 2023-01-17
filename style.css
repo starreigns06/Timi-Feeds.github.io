@@ -3,14 +3,14 @@
   box-sizing: border-box;
 }
 .bin {
-  background-image: url(../image/indian-snacks.jpg);
+  background-image: url(./indian-snacks.jpg);
   background-size: cover;
   height: 100vh;
   background-repeat: no-repeat;
   margin: 0 0.1%;
 }
 .bin2 {
-  background-image: url(../image/indian-snacks.jpg);
+  background-image: url(./indian-snacks.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   /* width: 100vw; */
@@ -296,7 +296,7 @@ hr {
 }
 @media (max-width: 1300px) {
   .bin {
-    background-image: url(../image/indian-snacks.jpg);
+    background-image: url(./indian-snacks.jpg);
     background-size: cover;
     height: 115vh;
     background-repeat: no-repeat;
@@ -338,7 +338,7 @@ hr {
     margin: 0;
   }
   .bin {
-    background-image: url(../image/indian-snacks.jpg);
+    background-image: url(./indian-snacks.jpg);
     background-size: cover;
     height: 119vh;
     background-repeat: no-repeat;
@@ -440,7 +440,7 @@ hr {
     padding: 30px;
   }
   .bin {
-    background-image: url(../image/indian-snacks.jpg);
+    background-image: url(./indian-snacks.jpg);
     background-size: cover;
     height: 138vh;
     background-repeat: no-repeat;
@@ -485,7 +485,7 @@ hr {
     object-fit: cover;
   }
   .bin {
-    background-image: url(../image/indian-snacks.jpg);
+    background-image: url(./indian-snacks.jpg);
     background-size: cover;
     height: 135vh;
     background-repeat: no-repeat;
@@ -524,7 +524,7 @@ hr {
     object-fit: cover;
   }
   .bin {
-    background-image: url(../image/indian-snacks.jpg);
+    background-image: url(./indian-snacks.jpg);
     background-size: cover;
     height: 133vh;
     background-repeat: no-repeat;
@@ -548,7 +548,7 @@ hr {
     padding: 0;
   }
   .bin {
-    background-image: url(../image/indian-snacks.jpg);
+    background-image: url(./indian-snacks.jpg);
     background-size: cover;
     height: 130vh;
     background-repeat: no-repeat;
@@ -622,7 +622,7 @@ hr {
     padding: 30px;
   }
   .bin2 {
-    background-image: url(../image/indian-snacks.jpg);
+    background-image: url(./indian-snacks.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100vw;
@@ -672,7 +672,7 @@ hr {
     padding: 30px;
   }
   .bin2 {
-    background-image: url(../image/indian-snacks.jpg);
+    background-image: url(./indian-snacks.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100vw;
